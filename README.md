@@ -1,5 +1,8 @@
 ### mice_whitelists
 
+https://app.radicle.network/seeds/pine.radicle.garden/rad:git:hnrkeecb6drdasyezx3qarbx7ueqqa75fo5po
+
+
 ## Tier 0
 # Premint Collector - free
 Contract: 0xe0176bA60efddb29Cac5b15338C9962dAee9de0c
