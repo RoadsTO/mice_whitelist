@@ -73,6 +73,11 @@ Snapshot of 282 owners taken for Block 15692273 at 2022-10-06 23:14:49.107477+00
 
 # Lens - (raffle) free
 
+#Narnia
+0x9d9ae1ad49be9b085fef04b9c835d484a6d099e3
+
+Snapshot of 2664 owners taken for Block 16076738 at 2022-11-29 16:09:24.218281+00:00
+
 Tier 1
 
 
