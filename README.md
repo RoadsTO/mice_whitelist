@@ -78,6 +78,17 @@ Snapshot of 282 owners taken for Block 15692273 at 2022-10-06 23:14:49.107477+00
 
 Snapshot of 2664 owners taken for Block 16076738 at 2022-11-29 16:09:24.218281+00:00
 
+Meow Snapshot
+Contract: 0x088124837ed205cfc23e57f6aaab2abac628e0be
+
+Snapshot of 1208 owners taken for Block 16076802 at 2022-11-29 16:21:45.552797+00:00
+
+Degenscore Beacon Snapshot
+Contract: 0x0521FA0bf785AE9759C7cB3CBE7512EbF20Fbdaa
+
+Snapshot of 1564 owners taken for Block 16076833 at 2022-11-29 16:27:51.467602+00:00
+
+
 Tier 1
 
 
