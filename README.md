@@ -88,6 +88,11 @@ Contract: 0x0521FA0bf785AE9759C7cB3CBE7512EbF20Fbdaa
 
 Snapshot of 1564 owners taken for Block 16076833 at 2022-11-29 16:27:51.467602+00:00
 
+Cats Snapshot
+Contract: 0x78d67f130e80aaa0aad5d786585d36b130fd45dc
+
+Snapshot of 168 owners taken for Block 16099014 at 2022-12-02 18:49:12.352718+00:00
+
 
 Tier 1
 
