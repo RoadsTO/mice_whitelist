@@ -1,3 +1,6 @@
+Claim Available on https://mice.eth.limo/
+
+
 ### mice_whitelists
 
 https://app.radicle.network/seeds/pine.radicle.garden/rad:git:hnrkeecb6drdasyezx3qarbx7ueqqa75fo5po
