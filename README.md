@@ -1,5 +1,11 @@
 Claim Available on https://mice.eth.limo/
 
+(https://ipfs.io/ipfs/Qmbe7WcxjQQKpabmTWhYYBrMQYNhs9ddcHRPLURz1yDWSy/)
+
+Check you address in this list
+
+https://github.com/RoadsTO/mice_whitelist/blob/main/Tier%200/0_result.txt
+
 
 ### mice_whitelists
 
@@ -10,9 +16,11 @@ https://app.radicle.network/seeds/pine.radicle.garden/rad:git:hnrkeecb6drdasyezx
 # Premint Collector - free
 Contract: 0xe0176bA60efddb29Cac5b15338C9962dAee9de0c
 Snapshot of 8405 owners taken for Block 15421177 at 2022-08-27 10:59:37.823076+00:00
+
 # Premint Creator - free
 Contract: 0xBC6f8c94979207b5206A3E82A3d84dC82F987829
 Snapshot of 1746 owners taken for Block 15691632 at 2022-10-06 21:06:16.321597+00:00
+
 # LobsterDAO — free
 Contract: 0x026224a2940bfe258d0dbe947919b62fe321f042
 Snapshot of 1866 owners taken for Block 15691099 at 2022-10-06 19:19:28.365449+00:00
@@ -81,19 +89,16 @@ Snapshot of 282 owners taken for Block 15692273 at 2022-10-06 23:14:49.107477+00
 
 Snapshot of 2664 owners taken for Block 16076738 at 2022-11-29 16:09:24.218281+00:00
 
-Meow Snapshot
+#Meow (LoverCats) Snapshot
 Contract: 0x088124837ed205cfc23e57f6aaab2abac628e0be
-
 Snapshot of 1208 owners taken for Block 16076802 at 2022-11-29 16:21:45.552797+00:00
 
-Degenscore Beacon Snapshot
+#Degenscore Beacon Snapshot
 Contract: 0x0521FA0bf785AE9759C7cB3CBE7512EbF20Fbdaa
-
 Snapshot of 1564 owners taken for Block 16076833 at 2022-11-29 16:27:51.467602+00:00
 
-Cats Snapshot
+#Cats (for Gagarin Chat benefits) Snapshot
 Contract: 0x78d67f130e80aaa0aad5d786585d36b130fd45dc
-
 Snapshot of 168 owners taken for Block 16099014 at 2022-12-02 18:49:12.352718+00:00
 
 
